@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Deck Builder"
+  short_description: "Plan, write, design, and verify presentation decks."
+  default_prompt: "帮我做一份 PPT，包含大纲、逐页内容、视觉风格、演讲备注，并在可用时生成 PPTX。"
