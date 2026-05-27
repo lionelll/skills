@@ -1,0 +1,4 @@
+interface:
+  display_name: "Xiaohongshu Viral Copy"
+  short_description: "Write Xiaohongshu-style viral copy, titles, covers, and tags."
+  default_prompt: "帮我写一篇小红书爆款笔记，包含标题、正文、封面文字、评论区引导和话题标签。"
